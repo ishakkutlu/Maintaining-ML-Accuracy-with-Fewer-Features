@@ -1,4 +1,4 @@
-# Mobile Price Classification with KNN by Advanced Data Mining Techniques
+# Price Classification with KNN by Advanced Data Mining Techniques
 
 Conducted an in-depth analysis of smartphone prices to identify the impact of various technical features on price classification using sophisticated data mining techniques. The project involved comprehensive data preprocessing, feature engineering, and model optimization to achieve high accuracy in price predictions.
 
