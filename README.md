@@ -1,20 +1,16 @@
-# Maintaining ML Accuracy with 85% Fewer Features
+# Maintaining Machine Learning Accuracy with 85% Fewer Features
 
-Conducted an in-depth analysis of smartphone prices to identify the impact of various technical features on price classification using sophisticated data mining techniques. The project involved comprehensive data preprocessing, feature engineering, and model optimization to achieve high accuracy in price predictions.
+Analyzed smartphone price data to explore how predictive accuracy can be preserved while drastically reducing model complexity.
 
-## Key Highlights:
+## Key Highlights
 
-- Maintained 91% accuracy while reducing the dimensionality by 85%, from 20 features to just 3
-- Improved the model's ability to generalize across different datasets by simplifying the feature set.
-- Identified key features affecting prices like RAM, battery power, and screen resolution
-- Optimized the K-Nearest Neighbors (KNN) algorithm for price classification
-- Assessed model performance using accuracy, precision, recall, and F1 score
-- Compared model performance before and after feature extraction
-- Performed feature extraction and dimensionality reduction
-- Cleaned and transformed raw data for consistency
-- Removed noise and irrelevant features
-- Used Python, Pandas, NumPy, Scikit-learn, Matplotlib, and Seaborn for model development and analysis
+- Reduced the feature count by 85% (from 20 to just 3) while maintaining 91% classification accuracy  
+- Demonstrated how to simplify complex data without sacrificing predictive power  
+- Applied data mining techniques (preprocessing, feature selection and extraction, dimensionality reduction) to support model generalization
+- Evaluated model accuracy before and after feature simplification
+- Focused on optimizing KNN using minimal yet highly informative features (RAM, battery power, screen resolution)  
+- Used Python, Pandas, NumPy, Scikit-learn, Matplotlib, and Seaborn  
 
-## Advanced Data Mining: Price Classification (%91)
-For further details on the Python project file, explore the impact of advanced data mining methods on smartphone prices by accessing it on Kaggle.
-- https://www.kaggle.com/code/shakkutlu/advanced-data-mining-price-classification-91
+## Implementation
+This notebook is also available and executable on Kaggle:
+[View full notebook with data](https://www.kaggle.com/code/shakkutlu/maintaining-ml-accuracy-with-85-fewer-features)
