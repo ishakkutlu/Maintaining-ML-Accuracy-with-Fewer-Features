@@ -13,4 +13,5 @@ Analyzed smartphone price data to explore how predictive accuracy can be preserv
 
 ## Implementation
 This notebook is also available and executable on Kaggle:
+
 [View full notebook with data](https://www.kaggle.com/code/shakkutlu/maintaining-ml-accuracy-with-85-fewer-features)
